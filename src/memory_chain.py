@@ -1,4 +1,4 @@
-"""Conversation with memory. 2025-05-02"""
+"""Conversation with memory. 2025-07-02"""
 def build_chat_chain(api_key:str, use_summary:bool=True):
     from langchain_openai import ChatOpenAI
     from langchain.chains import ConversationChain
