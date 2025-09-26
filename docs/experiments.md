@@ -1,4 +1,4 @@
-# LangChain Experiments — 2025-06-06
+# LangChain Experiments — 2025-09-26
 
 ## Exp 1: Basic RAG
 - Embeddings: text-embedding-3-small, VectorStore: FAISS
