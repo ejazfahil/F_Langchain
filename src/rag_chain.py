@@ -1,4 +1,4 @@
-"""RAG chain. 2025-06-26"""
+"""RAG chain. 2025-10-02"""
 from typing import List
 
 def build_rag_chain(docs:List[str], api_key:str):
